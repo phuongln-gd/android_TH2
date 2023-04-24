@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TabLayout_Test_2</string>
+    <string-array name="gioi_tinh">
+        <item>Nam</item>
+        <item>Nu</item>
+    </string-array>
+    <string-array name="ky_nang">
+        <item>Web</item>
+        <item>Android</item>
+        <item>IOS</item>
+    </string-array>
+</resources>
